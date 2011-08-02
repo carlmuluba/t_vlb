@@ -1,0 +1,104 @@
+@CHARSET "UTF-8";
+.sbHolder{
+	width: 80%;
+        font-family:'Gill Sans','lucida grande', helvetica, arial, sans-serif;
+	font-size: 150%; 
+	font-weight: normal;
+	background: #afafaf;
+        color: #ededed;
+	height: 30px;
+	position: relative;
+	-moz-border-radius: 8px 8px 8px 8px; 
+	-webkit-border-radius: 8px 8px 8px 8px; 
+       /* border: 2px solid;
+	border-bottom-color: #ededed;
+        border-right-color: #ededed;
+        border-bottom-color: #7c7c7c;
+        border-right-color: #7c7c7c;*/
+	padding: 2px 10px 2px 10px; 
+}
+.sbSelector{
+	display: block;
+	height: 30px;
+	left: 0;
+	line-height: 30px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width: 100%;
+}
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover{
+	color: #ededed;
+	outline: none;
+	text-decoration: none;
+	font-weight: normal;
+}
+.sbToggle{
+	background: url(../img/select-icons.png) 0 -116px no-repeat;
+	display: block;
+	height: 30px;
+	outline: none;
+	position: absolute;
+	right: 0;
+	top: 3px;
+	width: 30px;
+}
+.sbToggle:hover{
+	background: url(../img/select-icons.png) 0 -167px no-repeat;
+}
+.sbToggleOpen{
+	background: url(../img/select-icons.png) 0 -16px no-repeat;
+}
+.sbToggleOpen:hover{
+	background: url(../img/select-icons.png) 0 -66px no-repeat;
+}
+.sbHolderDisabled{
+	background-color: #3C3C3C;
+	border: none;
+}
+.sbHolderDisabled .sbHolder{
+	
+}
+.sbHolderDisabled .sbToggle{
+	
+}
+.sbOptions{
+	background: #afafaf;
+        color: #ededed;
+	font-weight: normal;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 90%;
+	z-index: 1000;
+	overflow-y: auto;
+}
+.sbOptions li{
+	padding: 0 7px;
+        color: #ededed;
+	border: none;
+}
+.sbOptions a{
+	background: #afafaf;
+	font-weight: normal;
+	border: none;
+	display: block;
+	outline: none;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions a:link, .sbOptions a:visited{
+	font-weight: normal;
+	color: #ddd;
+	text-decoration: none;
+}
+.sbOptions a:hover{
+	color: #EBB52D;
+}
+.sbOptions li.last a{
+	border-bottom: none;
+}

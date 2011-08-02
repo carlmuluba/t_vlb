@@ -1,0 +1,218 @@
+2011-07-24 19:24:06 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:24:06 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:37:13 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:37:13 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:39:06 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:39:06 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:40:27 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:40:27 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:45:57 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:45:57 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:47:00 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:47:00 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:48:16 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:48:16 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:49:43 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:49:43 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:51:21 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 19:51:21 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 21:43:59 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 21:43:59 Notice: Notice (8): Undefined variable: publications in [/Users/muluba/Sites/public_html/t_vlb/View/Publications/search.ctp, line 16]
+Trace:
+include - APP/View/Publications/search.ctp, line 16
+View::_render() - CORE/Cake/View/View.php, line 586
+DebugView::_render() - APP/Plugin/debug_kit/View/DebugView.php, line 42
+View::render() - CORE/Cake/View/View.php, line 354
+DebugView::render() - APP/Plugin/debug_kit/View/DebugView.php, line 84
+Controller::render() - CORE/Cake/Controller/Controller.php, line 831
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 155
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 22:00:03 Notice: Notice (8): Undefined index: Search in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 22:07:15 Notice: Notice (8): Undefined index: Publication in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 22:08:17 Notice: Notice (8): Undefined index: Publication in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
+2011-07-24 22:08:37 Notice: Notice (8): Undefined index: Publication in [/Users/muluba/Sites/public_html/t_vlb/Controller/PublicationsController.php, line 527]
+Trace:
+PublicationsController::search() - APP/Controller/PublicationsController.php, line 527
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 151
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
+[main] - APP/webroot/index.php, line 81
+
