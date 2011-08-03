@@ -1,8 +1,9 @@
 <?php
-?>
-<?= $this->Javascript->link(array('http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js','https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js',
-    'http://bp.yahooapis.com/2.4.21/browserplus-min.js','plupload/js/plupload','plupload/js/plupload.gears','plupload/js/plupload.silverlight','plupload/js/plupload.flash','plupload/js/plupload.html4',
-    'plupload/js/plupload.html5','plupload/js/jquery.ui.plupload/jquery.ui.plupload')); ?>
+    
+            echo $this->Html->charset('UTF-8');
+            echo $this->Html->script(array('http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js','https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js',
+            'http://bp.yahooapis.com/2.4.21/browserplus-min.js','plupload/js/plupload','plupload/js/plupload.gears','plupload/js/plupload.silverlight','plupload/js/plupload.flash','plupload/js/plupload.html4',
+            'plupload/js/plupload.html5','plupload/js/jquery.ui.plupload/jquery.ui.plupload')); ?>
 
 
 <div id="form-wrap">

@@ -519,6 +519,7 @@ class PublicationsController extends AppController {
         function viewall() {
             
 	}
+        /*
         function search() {
             if (!empty ($this->data['Search']['name'])) {
 		// the page we will redirect to
@@ -541,26 +542,15 @@ class PublicationsController extends AppController {
 			}
 	}
         function showsearch() {
-		/*if(isset($this->passedArgs['Search.name'])) {
-			$this->paginate['conditions'][]['Publication.name LIKE'] = str_replace('*','%',$this->passedArgs['Search.name']);
-			$this->data['Search']['name'] = $this->passedArgs['Search.name'];
-			//$title[] = __('Name',true).': '.$this->passedArgs['Search.name'];
-		}  */
-            if(isset($this->passedArgs['Search.name'])) {
-                    //$this->data['Search']['name'] = $this->passedArgs['Search.name'];
-                     $keywords = str_replace('*','%',$this->passedArgs['Search.name']);
+            if(isset($this->data['Search']['name'])) {
+                    $this->data['Search']['name'] = $this->data['Search']['name'];
                      $conditions = array('OR' => array()); 
                 foreach( array('name','notes') as $field ) { 
                      $conditions['OR']['Publication.'.$field.' LIKE'] = $keywords; 
                         }
             $this->set('publications', $this->paginate($conditions));
             } 
-            /*
-             if(empty($this->data['Search']['name'])) {
-			$this->Session->setFlash(__('Please enter shearch keywords to procced.', true));
-			$this->redirect(array('action' => 'index'));
-            }*/
-	}
+	}*/
       
 	function view($id = null) {
             $this->Publication->id = $id;

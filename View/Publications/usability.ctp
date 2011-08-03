@@ -4,8 +4,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
+	       echo $this->Html->charset('UTF-8');
+                echo $this->Html->script(array('jquery/jquery-1.6.1','easySlider/easySlider1.7')); 
 ?>
-<?= $this->Javascript->link(array('jquery/jquery-1.6.1','easySlider/easySlider1.7')); ?>
 <script type="text/javascript">
 		$(document).ready(function(){	
 			$("#slider").easySlider({ 

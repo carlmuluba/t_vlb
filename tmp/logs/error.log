@@ -8744,3 +8744,111 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 102
 2011-08-02 11:53:35 Error: [MissingControllerException] Controller class JsController could not be found.
 #0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
 #1 {main}
+2011-08-02 23:13:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:24:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:25:43 Error: [MissingActionException] Action PublicationsController::search() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-02 23:25:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:25:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:26:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:26:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:26:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-02 23:26:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 13:53:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 13:54:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 13:54:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 13:54:17 Error: [MissingActionException] Action PublicationsController::a() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 14:27:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 14:31:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 14:32:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 14:33:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:25:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:25:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:28:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:28:14 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:28:14 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:28:14 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:28:14 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:28:15 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:30:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-08-03 15:30:05 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:30:05 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:30:05 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:30:05 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-08-03 15:30:05 Error: [MissingActionException] Action PublicationsController::images() could not be found.
+#0 /Users/muluba/Sites/cake-2.0/lib/Cake/Routing/Dispatcher.php(102): Dispatcher->_invoke(Object(PublicationsController), Object(CakeRequest))
+#1 /Users/muluba/Sites/public_html/t_vlb/webroot/index.php(81): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}

@@ -31,6 +31,7 @@ class UsersController extends AppController {
 	}
 
 	function add_reader() {
+            $this->layout = 'backend';
 		if (!empty($this->data)) {
 			$this->User->create();
 			if ($this->User->saveAll($this->data)) {
@@ -43,6 +44,7 @@ class UsersController extends AppController {
 	}
 
 	function add_publisher() {
+            $this->layout = 'backend';
 		if (!empty($this->data)) {
 			$this->User->create();
 			if ($this->User->saveAll($this->data)) {
